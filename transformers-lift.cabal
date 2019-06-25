@@ -6,7 +6,8 @@ description:
     This simple and lightweight library provides type classes
     for lifting monad transformer operations.
 
-license:             BSD3
+-- license:             BSD3
+-- ^ unfortunately have to comment this line because of cabal2nix
 license-file:        LICENSE
 author:              Vladislav Zavialov
 maintainer:          Vladislav Zavialov <vlad.z.4096@gmail.com>
